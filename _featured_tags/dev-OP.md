@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Statistics & R
-slug: r
+title: OrangePi
+slug: OrangePi
 category: dev
-menu: false
+menu: true
 order: 1
 ---

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: DL
-slug: dl
+title: Odroid
+slug: Odroid
 category: dev
-menu: false
+menu: true
 order: 2
 ---
