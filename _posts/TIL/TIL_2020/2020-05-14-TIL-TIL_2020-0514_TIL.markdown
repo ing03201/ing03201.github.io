@@ -8,7 +8,6 @@ comments: true
 ---  
 > `TheoryDB`님의 블로그를 보고 깃헙 블로그 생성.  
 > `OrangePi` 안드로이드 운영체제에서 i2c 장치를 생성하기 위해 sys_config.fex 수정
-> 타 APU사는 Device Tree를 이용하지만 Sunxi 사는 fex파일과 함께 사용한다.
 > [sunxi wiki Fex Guide](https://linux-sunxi.org/Fex_Guide)
 ---
 

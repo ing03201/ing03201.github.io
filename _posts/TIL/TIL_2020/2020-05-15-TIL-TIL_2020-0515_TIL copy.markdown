@@ -6,10 +6,8 @@ categories: TIL
 tags: TIL_2020 
 comments: true  
 ---  
-
 > `훈민스캔`에서 기존에 가진 전공책들 모두 제단 및 셀프스캔.
 > `Odroid` 안드로이드 4.4 빌드 환경 구성.
-> `Orangepi`와 다른점은 Toolchain이 빌드 소스 내에 내장되어있지 않음. Google git repo를 이용한다는 점.
 > [odroid-c1 building_android](https://wiki.odroid.com/odroid-c1/software/building_android)
 
 ---
