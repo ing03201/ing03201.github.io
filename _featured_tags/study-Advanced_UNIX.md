@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
 title: 유닉스 고급프로그래밍
-slug: 유닉스 고급프로그래밍
+slug: UNIX
 category: Study
-menu: true
+menu: false
 order: 4
 ---

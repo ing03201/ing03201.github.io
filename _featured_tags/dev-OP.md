@@ -3,6 +3,6 @@ layout: tag-blog
 title: OrangePi
 slug: OrangePi
 category: dev
-menu: true
+menu: false
 order: 1
 ---

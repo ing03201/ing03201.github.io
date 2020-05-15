@@ -3,6 +3,6 @@ layout: tag-blog
 title: Odroid
 slug: Odroid
 category: dev
-menu: true
+menu: false
 order: 2
 ---
