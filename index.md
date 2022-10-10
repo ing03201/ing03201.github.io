@@ -20,6 +20,7 @@ permalink: /
 * [Book](/Book)
 * [일상](/일상)
 * [TIL](/TIL)
+* [뻘글](/뻘글)
 
 ##### Technical Skills
 
