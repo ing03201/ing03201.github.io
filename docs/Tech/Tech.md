@@ -9,3 +9,4 @@ permalink: /Tech
 # Tech
 
 읽은 테크 기사들
+
