@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: Thread란?
-nav_order: 4
-parent: Tech
-permalink: /Tech/Thread
+parent: IoT
+grand_parent: Tech
+permalink: /Tech/IoT/Thread
 ---
 
 # Thread에 대하여
