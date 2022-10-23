@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 책
+title: Book
 has_children: true
 permalink: /Book
 ---
