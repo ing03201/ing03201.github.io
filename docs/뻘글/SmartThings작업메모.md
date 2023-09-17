@@ -9,7 +9,16 @@ permalink: /뻘글/SmartThingsTask
 
 ## Capabilities
 
+## 빌드 방법
+```Shell
+## edge channel을 만들었다 가정했을때
+smartthings edge:drivers:package [path_to_dir]
+smartthings edge:channels:assign [driver_id] [version]
+smartthings edge:drivers:install [driver_id]
 
+## 디버깅
+smartthings edge:drivers:logcat
+```
 ## st.mdns
 
 ```lua
