@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "450e1e4e2c4b1523",
+        "id": "5b2345ca90064589",
         "type": "tabs",
         "children": [
           {
-            "id": "35ba8a8284ff727d",
+            "id": "24b8876af2bbf8e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Tech/IoT/SmartThings_Edge_Driver.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Tech/IoT/SmartThings_Edge_Driver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Tech/IoT/SmartThings_Edge_Driver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/Tech/IoT/SmartThings_Edge_Driver.md"
+              }
             }
           },
           {
@@ -156,8 +164,13 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "35ba8a8284ff727d",
+  "active": "c583d2d592d88edb",
   "lastOpenFiles": [
+    "Pasted image 20231003161617.png",
+    "docs/뻘글/안드로이드작업메모.md",
+    "docs/Tech/IoT/SmartThings_Edge_Driver.md",
+    "docs/뻘글/SmartThings작업메모.md",
+    "2023-10-03.md",
     "안드로이드작업메모.md",
     "SmartThings작업메모.md",
     "내가썼던테크기기들 22.10ver.md",
