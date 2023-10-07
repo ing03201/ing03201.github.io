@@ -18,6 +18,16 @@ Work With SmartThings 인증을 받은 제품들,
 예를 들어 [Philips Hue]([SmartThingsEdgeDrivers/drivers/SmartThings/philips-hue at main · SmartThingsCommunity/SmartThingsEdgeDrivers (github.com)](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers/tree/main/drivers/SmartThings/philips-hue)), [Bose]([SmartThingsEdgeDrivers/drivers/SmartThings/bose at main · SmartThingsCommunity/SmartThingsEdgeDrivers (github.com)](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers/tree/main/drivers/SmartThings/bose)) [sonos]([SmartThingsEdgeDrivers/drivers/SmartThings/sonos at main · SmartThingsCommunity/SmartThingsEdgeDrivers (github.com)](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers/tree/main/drivers/SmartThings/sonos)) 등은 공식으로 허브에서 드라이버를 지원한다.
 
 *사용하려면 필수적으로 SmartThings Hub가 있어야한다.*
-## 커스텀 드라이버 만들기
+## 커스텀 드라이버 만들기([공식 문서 링크]([Get Started with SmartThings Edge | SmartThings Developers](https://developer.smartthings.com/docs/devices/hub-connected/get-started)))
 > SmartThings 계정, CLI, 개발 환경설정을 다 한 상태를 가정하고 작성합니다.
 
+아래와 같은 파일 구조를 가진 폴더를 만든다. 
+```
+├── config.yaml 
+├── profiles 
+│     ├── { Profile Name }.yaml 
+│     └── { Other Profile Name }.yaml 
+├── fingerprints.yaml (Zigbee/Z-Wave에 해당) 
+└── src 
+		├── init.lua 
+```
