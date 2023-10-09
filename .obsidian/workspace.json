@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Tech/IoT/SmartThings_Edge_Driver.md",
+                "file": "docs/뻘글/SmartThings작업메모.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Tech/IoT/SmartThings_Edge_Driver.md",
+                "file": "docs/뻘글/SmartThings작업메모.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Tech/IoT/SmartThings_Edge_Driver.md",
+                "file": "docs/뻘글/SmartThings작업메모.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Tech/IoT/SmartThings_Edge_Driver.md"
+                "file": "docs/뻘글/SmartThings작업메모.md"
               }
             }
           },
@@ -164,11 +164,11 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "c583d2d592d88edb",
+  "active": "24b8876af2bbf8e3",
   "lastOpenFiles": [
+    "docs/Tech/IoT/SmartThings_Edge_Driver.md",
     "Pasted image 20231003161617.png",
     "docs/뻘글/안드로이드작업메모.md",
-    "docs/Tech/IoT/SmartThings_Edge_Driver.md",
     "docs/뻘글/SmartThings작업메모.md",
     "2023-10-03.md",
     "안드로이드작업메모.md",

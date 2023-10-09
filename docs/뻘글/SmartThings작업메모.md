@@ -34,3 +34,6 @@ for idx, found in ipairs(discover_responses.found) do
   end
 end
 ```
+
+## Should_continue
+- 기기찾기를 하지 않아도 알아서 자동으로 검색해서 연결을 해주는 함수 ( 백그라운드가 계속 돌고있음 )
