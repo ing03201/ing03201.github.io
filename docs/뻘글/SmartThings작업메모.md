@@ -7,7 +7,10 @@ permalink: /뻘글/SmartThingsTask
 
 #  SmartThings 작업 메모
 
-## Capabilities
+## Custom Capabilities
+스마트싱스 device의 속성을 **Capability**라고 한다.
+나만의 capabilities를 만들고자한다면 Smartthings cli로 만들수있다.
+
 
 ## 빌드 방법
 ```Shell
