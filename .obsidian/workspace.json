@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9e122ccce42d61a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "24b8876af2bbf8e3",
+  "active": "f9e122ccce42d61a",
   "lastOpenFiles": [
     "docs/Tech/IoT/SmartThings_Edge_Driver.md",
     "Pasted image 20231003161617.png",
