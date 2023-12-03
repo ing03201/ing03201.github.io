@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6abe68add9e88eff",
+        "id": "44b631fe229a7318",
         "type": "tabs",
         "children": [
           {
-            "id": "abb9cb39061a4311",
+            "id": "69c63a803c3a4c3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/TIL/TIL.md",
+                "file": "docs/책/Writing_An_OS_in_Rust/Writing_an_OS_in_Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/TIL/TIL.md",
+                "file": "docs/책/Writing_An_OS_in_Rust/Writing_an_OS_in_Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/TIL/TIL.md",
+                "file": "docs/책/Writing_An_OS_in_Rust/Writing_an_OS_in_Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/TIL/TIL.md"
+                "file": "docs/책/Writing_An_OS_in_Rust/Writing_an_OS_in_Rust.md"
               }
             }
           },
@@ -162,10 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abb9cb39061a4311",
+  "active": "69c63a803c3a4c3d",
   "lastOpenFiles": [
-    "docs/TIL/2023-12-02.md",
+    "docs/책/Writing_An_OS_in_Rust/A_Freestanding_Rust_Binary.md",
+    "docs/책/Writing_An_OS_in_Rust/Writing_an_OS_in_Rust.md",
+    "docs/책/Writing_An_OS_in_Rust/Writing an OS in Rust.md",
+    "docs/책/Writing_An_OS_in_Rust/A Freestanding Rust Binary.md",
+    "Pasted image 20231203150743.png",
+    "().md",
+    "docs/책/CleanCode/CleanCode.md",
+    "docs/책/Writing_An_OS_in_Rust",
+    "docs/책/Writing Os Rust/CleanCode.md",
+    "docs/책/Writing Os Rust/1장.md",
+    "docs/책/Writing Os Rust",
+    "docs/책/CleanCode (copy)/CleanCode.md",
+    "docs/책/CleanCode (copy)/1장.md",
+    "docs/책/CleanCode (copy)",
+    "docs/책/CleanCode/1장.md",
     "docs/TIL/TIL.md",
+    "docs/책/Untitled",
+    "docs/TIL/2023-12-02.md",
     "docs/뻘글/SmartThings작업메모.md",
     "docs/뻘글/내가썼던테크기기들 22.10ver.md",
     "docs/Tech/Tech.md",
@@ -182,18 +198,7 @@
     "docs/일상/2023-04-06.md",
     "assets/deft_world.png",
     "docs/일상/일상.md",
-    "docs/TIL/IoT/Matter.md",
-    "docs/TIL/IoT/Thread.md",
-    "docs/TIL/IoT/SmartThings_Edge_Driver.md",
-    "docs/일상/2022-10-08.md",
-    "index.md",
     "Pasted image 20231003161617.png",
-    "docs/뻘글/안드로이드작업메모.md",
-    "2023-10-03.md",
-    "안드로이드작업메모.md",
-    "SmartThings작업메모.md",
-    "내가썼던테크기기들 22.10ver.md",
-    "뻘글.md",
     "Context/spacesLastSync.log",
     "Context",
     "Untitled.canvas"
