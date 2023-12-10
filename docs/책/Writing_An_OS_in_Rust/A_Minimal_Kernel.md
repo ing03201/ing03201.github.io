@@ -3,7 +3,7 @@ layout: page
 title: A Minimal Kernel
 parent: Writing an OS in Rust
 grand_parent: Book
-permalink: /Book/Writing_an_OS_in_Rust/A_Freestanding_Rust_Binary
+permalink: /Book/Writing_an_OS_in_Rust/A_Minimal_Kernel
 ---
 
 # 1.2 A Minimal Kernel

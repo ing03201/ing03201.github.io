@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/책/Writing_An_OS_in_Rust/A_Minimal_Kernel.md",
+                "file": "docs/책/Writing_An_OS_in_Rust/VGA_Text_Mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/책/Writing_An_OS_in_Rust/A_Minimal_Kernel.md",
+                "file": "docs/책/Writing_An_OS_in_Rust/VGA_Text_Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/책/Writing_An_OS_in_Rust/A_Minimal_Kernel.md",
+                "file": "docs/책/Writing_An_OS_in_Rust/VGA_Text_Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/책/Writing_An_OS_in_Rust/A_Minimal_Kernel.md"
+                "file": "docs/책/Writing_An_OS_in_Rust/VGA_Text_Mode.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "f9c02a84ac0bdde7",
   "lastOpenFiles": [
+    "docs/책/Writing_An_OS_in_Rust/A_Minimal_Kernel.md",
+    "docs/책/Writing_An_OS_in_Rust/VGA_Text_Mode.md",
     "Pasted image 20231210114510.png",
     "Pasted image 20231210114446.png",
     "Pasted image 20231210113627.png",
@@ -182,7 +184,6 @@
     "Pasted image 20231210104439.png",
     "Pasted image 20231210103012.png",
     "docs/책/Writing_An_OS_in_Rust/A_Freestanding_Rust_Binary.md",
-    "docs/책/Writing_An_OS_in_Rust/A_Minimal_Kernel.md",
     "docs/책/Writing_An_OS_in_Rust/Writing_an_OS_in_Rust.md",
     "docs/책/Writing_An_OS_in_Rust/Minimal_Kernel.md",
     "공간터치 홈 단기 시나리오.md",
@@ -211,7 +212,6 @@
     "docs/책/Book.md",
     "assets/thread_struct.jpeg",
     "assets/thread_stack_structure.png",
-    "assets/thread_mark.png",
     "docs/Tech/잡지식/apt-repo.md",
     "docs/Tech/잡지식/잡지식.md"
   ]
