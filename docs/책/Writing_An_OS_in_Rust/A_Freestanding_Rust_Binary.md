@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 깨끗한 코드
+title: A Freestanding Rust Binary
 parent: Writing an OS in Rust
 grand_parent: Book
 permalink: /Book/Writing_an_OS_in_Rust/A_Freestanding_Rust_Binary
