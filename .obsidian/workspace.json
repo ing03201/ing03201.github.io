@@ -1,6 +1,6 @@
 {
   "main": {
-    "id": "bc378a155c954908",
+    "id": "17f42a84303c9d35",
     "type": "split",
     "children": [
       {
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ea228f95dfd09a2a",
+    "id": "facc7d173e8d0af7",
     "type": "split",
     "children": [
       {
-        "id": "779c3ad03960a525",
+        "id": "553236248957ccc0",
         "type": "tabs",
         "children": [
           {
-            "id": "36ff8c6a2a6e6dbb",
+            "id": "116e11dfd8dc8083",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "0f25bd72629f9490",
+            "id": "f566b6b05ac0dfd4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,18 +58,18 @@
             }
           },
           {
-            "id": "1cbb0e4956d1a295",
+            "id": "31b4cf5b33102a96",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "starred",
               "state": {}
             }
           },
           {
-            "id": "c583d2d592d88edb",
+            "id": "793ddde1f2e705c3",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -81,15 +81,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "7e5edc0e50e3d08b",
+    "id": "6e4c976e1f50413b",
     "type": "split",
     "children": [
       {
-        "id": "4477bdeb7df78ad6",
+        "id": "5148b88c13850ad7",
         "type": "tabs",
         "children": [
           {
-            "id": "b69fc17caf63ab6f",
+            "id": "9cfc520e2b93522f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "7669042a5ae58dc8",
+            "id": "b080851d5961dbf5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -118,7 +118,7 @@
             }
           },
           {
-            "id": "1c836478d12e7936",
+            "id": "7ce193b0c538e596",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,7 +129,7 @@
             }
           },
           {
-            "id": "1e9d3d767402462a",
+            "id": "ff110d448df9bccd",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -139,14 +139,23 @@
             }
           },
           {
-            "id": "1a86fd30e78932ac",
+            "id": "12b1ae9535ea2974",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d5730a1b7ebe2cf0",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -160,11 +169,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
   "active": "6974b89cecea5268",
   "lastOpenFiles": [
+    "docs/책/Writing_An_OS_in_Rust/A_Minimal_Kernel.md",
+    "docs/책/Writing_An_OS_in_Rust/VGA_Text_Mode.md",
+    "Pasted image 20231210114510.png",
+    "Pasted image 20231210114446.png",
+    "Pasted image 20231210113627.png",
+    "Pasted image 20231210110912.png",
+    "Pasted image 20231210104439.png",
+    "Pasted image 20231210103012.png",
     "docs/책/Writing_An_OS_in_Rust/A_Freestanding_Rust_Binary.md",
     "docs/책/Writing_An_OS_in_Rust/A_Minimal_Rust_Kernel.md",
     "docs/책/Writing_An_OS_in_Rust/Writing_an_OS_in_Rust.md",
@@ -172,28 +190,24 @@
     "docs/책/Writing_An_OS_in_Rust/Writing an OS in Rust.md",
     "docs/책/Writing_An_OS_in_Rust/A Freestanding Rust Binary.md",
     "Pasted image 20231203150743.png",
-    "().md",
-    "docs/책/CleanCode/CleanCode.md",
-    "docs/책/Writing_An_OS_in_Rust",
-    "docs/책/Writing Os Rust/CleanCode.md",
-    "docs/책/Writing Os Rust/1장.md",
-    "docs/책/Writing Os Rust",
-    "docs/책/CleanCode (copy)/CleanCode.md",
-    "docs/책/CleanCode (copy)/1장.md",
-    "docs/책/CleanCode (copy)",
-    "docs/책/CleanCode/1장.md",
-    "docs/TIL/TIL.md",
-    "docs/책/Untitled",
-    "docs/TIL/2023-12-02.md",
-    "docs/뻘글/SmartThings작업메모.md",
-    "docs/뻘글/내가썼던테크기기들 22.10ver.md",
-    "docs/Tech/Tech.md",
+    "Pasted image 20231003161617.png",
     "docs/Tech/IoT/Matter.md",
-    "docs/Tech/IoT/SmartThings_Edge_Driver.md",
+    "Untitled.canvas",
+    "docs/일상/2023-04-06.md",
+    "docs/일상/Untitled.md",
+    "docs/뻘글/안드로이드작업메모.md",
+    "docs/뻘글/SmartThings작업메모.md",
+    "docs/TIL/TIL.md",
     "docs/Tech/IoT/IoT.md",
+    "index.md",
+    "docs/일상/일상.md",
+    "docs/일상/2022-10-08.md",
+    "docs/뻘글/뻘글.md",
+    "docs/뻘글/내가썼던테크기기들 22.10ver.md",
     "docs/Tech/IoT/Thread.md",
-    "docs/TIL/Untitled.md",
-    "docs/Tech/IoT",
+    "docs/책/Book.md",
+    "assets/thread_struct.jpeg",
+    "assets/thread_stack_structure.png",
     "docs/Tech/잡지식/apt-repo.md",
     "docs/Tech/잡지식/잡지식.md",
     "docs/일상/2023-12-02.md",
