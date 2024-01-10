@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/책/Writing_An_OS_in_Rust/A_Minimal_Rust_Kernel.md",
+                "file": "docs/일상/코멘토 SoC 개발 1주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/책/Writing_An_OS_in_Rust/A_Minimal_Rust_Kernel.md",
+                "file": "docs/일상/코멘토 SoC 개발 1주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/책/Writing_An_OS_in_Rust/A_Minimal_Rust_Kernel.md",
+                "file": "docs/일상/코멘토 SoC 개발 1주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/책/Writing_An_OS_in_Rust/A_Minimal_Rust_Kernel.md"
+                "file": "docs/일상/코멘토 SoC 개발 1주차.md"
               }
             }
           },
@@ -174,6 +174,9 @@
   },
   "active": "6974b89cecea5268",
   "lastOpenFiles": [
+    "docs/일상/2023-12-02.md",
+    "docs/일상/코멘토 SoC 개발 1주차.md",
+    "docs/책/Writing_An_OS_in_Rust/A_Minimal_Rust_Kernel.md",
     "docs/책/Writing_An_OS_in_Rust/A_Minimal_Kernel.md",
     "docs/책/Writing_An_OS_in_Rust/VGA_Text_Mode.md",
     "Pasted image 20231210114510.png",
@@ -183,7 +186,6 @@
     "Pasted image 20231210104439.png",
     "Pasted image 20231210103012.png",
     "docs/책/Writing_An_OS_in_Rust/A_Freestanding_Rust_Binary.md",
-    "docs/책/Writing_An_OS_in_Rust/A_Minimal_Rust_Kernel.md",
     "docs/책/Writing_An_OS_in_Rust/Writing_an_OS_in_Rust.md",
     "docs/책/Writing_An_OS_in_Rust/A_Freestanding_Rust_Binary (copy).md",
     "docs/책/Writing_An_OS_in_Rust/Writing an OS in Rust.md",
@@ -209,10 +211,7 @@
     "assets/thread_stack_structure.png",
     "docs/Tech/잡지식/apt-repo.md",
     "docs/Tech/잡지식/잡지식.md",
-    "docs/일상/2023-12-02.md",
     "assets/Lixil_2023_10_CEATEC.MOV",
-    "assets/deft_world.png",
-    "Pasted image 20231003161617.png",
     "Context/spacesLastSync.log",
     "Context",
     "Untitled.canvas"
