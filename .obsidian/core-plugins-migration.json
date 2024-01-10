@@ -26,7 +26,5 @@
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
-  "sync": false,
-  "properties": false,
-  "bookmarks": true
+  "sync": false
 }
