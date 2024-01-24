@@ -2,7 +2,7 @@
 layout: page
 title: 코멘토 SoC 개발 1주차
 parent: 일상
-permalink: /일상/코멘토 SoC 개발 1주차
+permalink: /일상/코멘토SoC/1주차
 ---
 # 커널 / 빌드루트 / QEMU
 cpio the root filesystem 
